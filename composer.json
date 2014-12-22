@@ -1,9 +1,10 @@
 {
   "name": "praxigento/_mage_composer_mod_01",
+  "version": "1.0.0",
+  "minimum-stability": "stable",
   "type": "magento-module",
   "license": "BSD",
   "description": "Magento module 01 for Composer tests.",
-  "minimum-stability": "stable",
   "authors": [
     {
       "name": "Alex Gusev",
