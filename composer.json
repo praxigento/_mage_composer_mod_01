@@ -3,6 +3,7 @@
   "type": "magento-module",
   "license": "BSD",
   "description": "Magento module 01 for Composer tests.",
+  "minimum-stability": "stable",
   "authors": [
     {
       "name": "Alex Gusev",
