@@ -10,5 +10,8 @@
       "name": "Alex Gusev",
       "email": "flancer64@gmail.com"
     }
-  ]
+  ],
+  "config": {
+     "preferred-install": "source"
+ }
 }
