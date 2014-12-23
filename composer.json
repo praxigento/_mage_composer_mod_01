@@ -1,9 +1,9 @@
 {
   "name": "praxigento/_mage_composer_mod_01",
   "version": "1.0.0",
-  "minimum-stability": "stable",
   "type": "magento-module",
   "license": "BSD",
+  "homepage": "https://github.com/praxigento/_mage_composer_mod_01",
   "description": "Magento module 01 for Composer tests.",
   "authors": [
     {
@@ -11,7 +11,10 @@
       "email": "flancer64@gmail.com"
     }
   ],
+  "require": {
+    "magento-hackathon/magento-composer-installer": "*"
+  },
   "config": {
-     "preferred-install": "source"
- }
+    "preferred-install": "source"
+  }
 }
