@@ -1,1 +1,4 @@
+app/code/community/Praxigento/HhComposerModule01/etc/config.xml app/code/community/Praxigento/HhComposerModule01/etc/config.xml
+app/design/frontend/default/default/layout/praxigento/HhComposerModule01.xml app/design/frontend/default/default/layout/praxigento/HhComposerModule01.xml
+app/design/frontend/default/default/template/praxigento/HhComposerModule01/before.phtml app/design/frontend/default/default/template/praxigento/HhComposerModule01/before.phtml
 app/etc/modules/Praxigento_HhComposerModule01.xml app/etc/modules/Praxigento_HhComposerModule01.xml
