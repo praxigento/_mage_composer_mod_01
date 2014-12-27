@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<config>
+    <modules>
+        <Praxigento_HhComposerModule01>
+            <version>1.0.0</version>
+        </Praxigento_HhComposerModule01>
+    </modules>
+    <frontend>
+        <layout>
+            <updates>
+                <Praxigento_HhComposerModule01>
+                    <file>praxigento/HhComposerModule01.xml</file>
+                </Praxigento_HhComposerModule01>
+            </updates>
+        </layout>
+    </frontend>
+</config>
